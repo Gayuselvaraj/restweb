@@ -423,11 +423,11 @@ footer {
 ## OUTPUT:
 
 
-![alt text](<rest menu.jpg>)
+![alt text](<rest menu-1.jpg>)
 
 ![alt text](image.png)
 
-![alt text](<contact menu.jpg>)
+![alt text](<contact menu-1.jpg>)
 
 
 ## RESULT:
